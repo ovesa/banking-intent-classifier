@@ -7,9 +7,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (optional — depends if you want data in the repo)
-*.csv
-
 # Model weights (these are huge, don't commit them)
 *.pt
 *.pth
