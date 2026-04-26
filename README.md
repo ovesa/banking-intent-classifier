@@ -100,7 +100,7 @@ print(result['confidence'])        # 0.994
 
 Banking77 dataset obtained from codeacademy for the `Classifying Banking Intent From Customer Queries Capstone Project`.
 
-This project uses the Banking77 dataset originally published by PolyAI:
+This project uses the Banking77 dataset originally published by [PolyAI](https://huggingface.co/datasets/PolyAI/banking77):
 
 Casanueva et al. (2020). Efficient Intent Detection with Dual Sentence Encoders.
 Proceedings of the 2nd Workshop on NLP for ConvAI, ACL 2020.
