@@ -32,8 +32,8 @@ banking-intent-classifier/
 ├── requirements.txt                    # project dependencies
 │
 ├── datasets/
-│   ├── banking77_train.csv             # 10,003 training queries
-│   └── banking77_test.csv             # 3,080 test queries
+    ├── banking77_train.csv             # 10,003 training queries
+    └── banking77_test.csv             # 3,080 test queries
 
 ```
 
