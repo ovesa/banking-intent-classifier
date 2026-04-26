@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional — depends if you want data in the repo)
+*.csv
+
+# Model weights (these are huge, don't commit them)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Virtual environments
+venv/
+.venv/
