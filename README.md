@@ -92,7 +92,7 @@ print(result['confidence'])        # 0.994
 | PEFT | LoRA configuration and adapter training |
 | scikit-learn | TF-IDF vectorization, label encoding, evaluation metrics |
 | pandas and numpy | Data loading and manipulation |
-| matplotlib and seaborn | EDA visualizations |
+| matplotlib | EDA visualizations |
 
 ---
 
