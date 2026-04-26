@@ -43,7 +43,6 @@ def set_plot_style():
 
         # Axes appearance
         "axes.linewidth": 1.5,
-        "axes.grid": False,
 
         # Legend
         "legend.frameon": True,
@@ -57,6 +56,6 @@ def set_plot_style():
         "font.sans-serif": ["DejaVu Sans"],
         
         # Grid
-        "grid.alpha": 0.25,
-        "grid.linestyle": "--"
+        "axes.grid": False,
+
     })
