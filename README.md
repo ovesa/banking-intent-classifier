@@ -34,12 +34,7 @@ banking-intent-classifier/
 ├── datasets/
 │   ├── banking77_train.csv             # 10,003 training queries
 │   └── banking77_test.csv             # 3,080 test queries
-│
-└── roberta_lora_banking_final/         # saved LoRA adapter weights
-    ├── adapter_model.safetensors
-    ├── adapter_config.json
-    ├── tokenizer.json
-    └── tokenizer_config.json
+
 ```
 
 ---
