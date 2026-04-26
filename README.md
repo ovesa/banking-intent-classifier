@@ -98,4 +98,6 @@ print(result['confidence'])        # 0.994
 
 ## Dataset
 
-Banking77 dataset obtained from codeacademy for the `Classifying Banking Intent From Customer Queries Capstone Project`
+Banking77 dataset obtained from codeacademy for the `Classifying Banking Intent From Customer Queries Capstone Project`.
+
+Dataset Source: https://huggingface.co/datasets/PolyAI/banking77.
